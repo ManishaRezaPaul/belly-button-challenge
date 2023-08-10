@@ -18,12 +18,12 @@ Complete the following steps:
   o	Use otu_labels for the text values.
 4.	Display the sample metadata, i.e., an individual's demographic information.
 5.	Display each key-value pair from the metadata JSON object somewhere on the page.
-6.	Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
-7.	Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+6.	Update all the plots when a new sample is selected. 
+7.	Deploy app to a free static page hosting service, such as GitHub Pages.
 
 
 ### Advanced Challenge Assignment [refer bonus.js]
 The following task is advanced and therefore optional.
 •	Adapt the Gauge Chart to plot the weekly washing frequency of the individual.
-•	You will need to modify the example gauge code to account for values ranging from 0 through 9.
+•	Need to modify the example gauge code to account for values ranging from 0 through 9.
 •	Update the chart whenever a new sample is selected.
